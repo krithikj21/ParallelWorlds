@@ -1,0 +1,59 @@
+[gd_resource type="AnimationNodeStateMachine" load_steps=13 format=2]
+
+[sub_resource type="AnimationNodeAnimation" id=28]
+animation = "idle_right"
+
+[sub_resource type="AnimationNodeAnimation" id=29]
+animation = "jump_right"
+
+[sub_resource type="AnimationNodeAnimation" id=30]
+animation = "run_right"
+
+[sub_resource type="AnimationNodeAnimation" id=31]
+animation = "fall_and_land"
+
+[sub_resource type="AnimationNodeBlendSpace2D" id=32]
+blend_point_0/node = SubResource( 28 )
+blend_point_0/pos = Vector2( 0, 0 )
+blend_point_1/node = SubResource( 29 )
+blend_point_1/pos = Vector2( 0, 1 )
+blend_point_2/node = SubResource( 30 )
+blend_point_2/pos = Vector2( 1, 0 )
+blend_point_3/node = SubResource( 31 )
+blend_point_3/pos = Vector2( 0, -1 )
+blend_mode = 1
+
+[sub_resource type="AnimationNodeAnimation" id=22]
+animation = "idle_right"
+
+[sub_resource type="AnimationNodeAnimation" id=23]
+animation = "walk_right"
+
+[sub_resource type="AnimationNodeAnimation" id=24]
+animation = "fall_and_land"
+
+[sub_resource type="AnimationNodeAnimation" id=25]
+animation = "jump_right"
+
+[sub_resource type="AnimationNodeBlendSpace2D" id=26]
+blend_point_0/node = SubResource( 22 )
+blend_point_0/pos = Vector2( 0, 0 )
+blend_point_1/node = SubResource( 23 )
+blend_point_1/pos = Vector2( 1, 0 )
+blend_point_2/node = SubResource( 24 )
+blend_point_2/pos = Vector2( 0, -1 )
+blend_point_3/node = SubResource( 25 )
+blend_point_3/pos = Vector2( 0, 1 )
+blend_mode = 1
+
+[sub_resource type="AnimationNodeStateMachineTransition" id=33]
+
+[sub_resource type="AnimationNodeStateMachineTransition" id=34]
+
+[resource]
+states/Run/node = SubResource( 32 )
+states/Run/position = Vector2( 468, 66 )
+states/WIFJ/node = SubResource( 26 )
+states/WIFJ/position = Vector2( 284, 66 )
+transitions = [ "WIFJ", "Run", SubResource( 33 ), "Run", "WIFJ", SubResource( 34 ) ]
+start_node = "WIFJ"
