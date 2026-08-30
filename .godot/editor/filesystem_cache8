@@ -1,0 +1,172 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1787913679
+animationtree1.tres::AnimationNodeStateMachine::-1::1787892578::0::1::::<><>::
+default_env.tres::Environment::5319470305435303222::1787898197::0::1::::<><>::
+icon.png::CompressedTexture2D::3177076868505160730::1787467114::1787898368::1::::<><>::
+icon.svg::CompressedTexture2D::7419927291707882782::1787898255::1787898284::1::::<><>::
+Main.tscn::PackedScene::5867766418479457104::1787913644::0::1::::<><>::uid://bhoedtcgwj6lx::::res://present.tres<>uid://bg35sloiid7r4::::res://PixelPlatformerSet1v.1.1/Background/01 background.png<>uid://ch2jfmgftcs6j::::res://Round9x13.ttf<>uid://coepaixqoaygg::::res://Player.tscn
+Player.gd::GDScript::-1::1787913521::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::5764653900689397714::1787913631::0::1::::<><>::uid://ddjebnsekii40::::res://Characters Pack/Characters Pack/Outline/WarriorMan-Sheet.png<>res://PlayerAnimations.gd<>res://Player.gd
+PlayerAnimations.gd::GDScript::-1::1787905102::0::1::::<>AnimationPlayer<>::
+present.tres::TileSet::2906893104404608625::1787912097::0::1::::<><>::uid://cu2jp2n1mly0k::::res://PixelPlatformerSet1v.1.1/main_lev_build.png
+Round9x13.ttf::FontFile::5320457493918161615::1787903423::1787903449::1::::<><>::
+::res://Assets/::1787898370
+Assets.png::CompressedTexture2D::6103864819164875929::1787888269::1787898370::1::::<><>::
+Background_1.png::CompressedTexture2D::8370135807116720061::1787888269::1787898370::1::::<><>::
+Background_2.png::CompressedTexture2D::8691821908515149176::1787888269::1787898370::1::::<><>::
+Character_Sprite_Sheet.png::CompressedTexture2D::2948788804456857542::1787888269::1787898370::1::::<><>::
+::res://Characters Pack/::1787898288
+::res://Characters Pack/Characters Pack/::1787898372
+Effect Block-Sheet.png::CompressedTexture2D::2089804020329282338::1734859170::1787898372::1::::<><>::
+Effect HP MP-Sheet.png::CompressedTexture2D::5601132126335041048::1734859242::1787898372::1::::<><>::
+Effect-Sheet.png::CompressedTexture2D::1808309977565735384::1734532568::1787898372::1::::<><>::
+::res://Characters Pack/Characters Pack/Outline/::1787898372
+WarriorMan-Sheet.png::CompressedTexture2D::7388653346350370163::1735639758::1787898371::1::::<><>::
+WarriorManNoEffect-Sheet.png::CompressedTexture2D::2501661556994341726::1734860362::1787898370::1::::<><>::
+WarriorWoman-Sheet.png::CompressedTexture2D::2939153814463636449::1735639774::1787898372::1::::<><>::
+WarriorWomanNoEffect-Sheet.png::CompressedTexture2D::1724857811043963221::1734860442::1787898370::1::::<><>::
+::res://Characters Pack/Characters Pack/Without Outline/::1787898373
+WarriorMan-Sheet.png::CompressedTexture2D::3563025849752218525::1735639830::1787898372::1::::<><>::
+WarriorManNoEffect-Sheet.png::CompressedTexture2D::4426271128973229943::1734860380::1787898372::1::::<><>::
+WarriorWoman-Sheet.png::CompressedTexture2D::719547238272974421::1735639840::1787898373::1::::<><>::
+WarriorWomanNoEffect-Sheet.png::CompressedTexture2D::5574375102475490688::1734860456::1787898372::1::::<><>::
+::res://Characters PackV2/::1787898289
+::res://Characters PackV2/Characters PackV2/::1787898289
+::res://Characters PackV2/Characters PackV2/WarriorMan/::1787898374
+WarriorManAttack1.png::CompressedTexture2D::4915608679144824864::1785585488::1787898372::1::::<><>::
+WarriorManAttack2.png::CompressedTexture2D::6348875101913615876::1785585538::1787898372::1::::<><>::
+WarriorManAttack3.png::CompressedTexture2D::117091718001319993::1785585554::1787898372::1::::<><>::
+WarriorManAttackCombo.png::CompressedTexture2D::4994331777322260997::1785585570::1787898369::1::::<><>::
+WarriorManBlock.png::CompressedTexture2D::8893217898439520703::1785585638::1787898369::1::::<><>::
+WarriorManCrouch.png::CompressedTexture2D::5239258719039649877::1785585116::1787898369::1::::<><>::
+WarriorManCrouchAttack.png::CompressedTexture2D::3027643241698063112::1785585132::1787898369::1::::<><>::
+WarriorManDeath.png::CompressedTexture2D::6699596668567269054::1785585774::1787898369::1::::<><>::
+WarriorManGettingUp.png::CompressedTexture2D::332647446498952778::1785585786::1787898369::1::::<><>::
+WarriorManHit.png::CompressedTexture2D::6510845008895248188::1785585758::1787898369::1::::<><>::
+WarriorManHPRecovery.png::CompressedTexture2D::7817555132927758558::1785585672::1787898369::1::::<><>::
+WarriorManIdle2.png::CompressedTexture2D::3219728807781597987::1785584948::1787898369::1::::<><>::
+WarriorManIdle.png::CompressedTexture2D::3155218609772289598::1785584912::1787898370::1::::<><>::
+WarriorManIdleBlock.png::CompressedTexture2D::5828405155585839931::1785585622::1787898370::1::::<><>::
+WarriorManJump.png::CompressedTexture2D::2192090105259763270::1785585018::1787898370::1::::<><>::
+WarriorManJumpAttack1.png::CompressedTexture2D::6721624149240139585::1785586448::1787898370::1::::<><>::
+WarriorManJumpAttack2.png::CompressedTexture2D::236214744871773613::1785586462::1787898370::1::::<><>::
+WarriorManJumpAttack.png::CompressedTexture2D::386868496448212802::1785586424::1787898370::1::::<><>::
+WarriorManLadderClimb.png::CompressedTexture2D::4838177193033126915::1785585744::1787898370::1::::<><>::
+WarriorManMPRecovery.png::CompressedTexture2D::7684536816068871079::1785585688::1787898370::1::::<><>::
+WarriorManRun.png::CompressedTexture2D::7112488618736590328::1785584982::1787898370::1::::<><>::
+WarriorManSlide.png::CompressedTexture2D::2068447027689849485::1785585652::1787898373::1::::<><>::
+WarriorManSpell2.png::CompressedTexture2D::2298028412856489408::1785585602::1787898373::1::::<><>::
+WarriorManSpell.png::CompressedTexture2D::262521921624982319::1785585588::1787898373::1::::<><>::
+WarriorManWalk.png::CompressedTexture2D::4610730830173661729::1785584968::1787898373::1::::<><>::
+WarriorManWallClimb.png::CompressedTexture2D::2544374592932005415::1785585732::1787898374::1::::<><>::
+WarriorManWallHang.png::CompressedTexture2D::2984125991821194232::1785585706::1787898373::1::::<><>::
+::res://Characters PackV2/Characters PackV2/WarriorWoman/::1787898374
+WarriorWomanAttack1.png::CompressedTexture2D::7670055957291703030::1785586088::1787898373::1::::<><>::
+WarriorWomanAttack2.png::CompressedTexture2D::4027923444663384242::1785586098::1787898374::1::::<><>::
+WarriorWomanAttack3.png::CompressedTexture2D::3892450917010803021::1785586110::1787898374::1::::<><>::
+WarriorWomanAttackCombo.png::CompressedTexture2D::1839272692111498107::1785586122::1787898374::1::::<><>::
+WarriorWomanBlock.png::CompressedTexture2D::4739999500201714009::1785586184::1787898374::1::::<><>::
+WarriorWomanCrouch.png::CompressedTexture2D::1294434024979016834::1785586058::1787898374::1::::<><>::
+WarriorWomanCrouchAttack.png::CompressedTexture2D::1196981028582841459::1785586074::1787898374::1::::<><>::
+WarriorWomanDeath.png::CompressedTexture2D::3626992983280575437::1785586300::1787898374::1::::<><>::
+WarriorWomanGettingUp.png::CompressedTexture2D::6886405362182054167::1785586310::1787898374::1::::<><>::
+WarriorWomanHit.png::CompressedTexture2D::5557844420244589421::1785586288::1787898374::1::::<><>::
+WarriorWomanHPRecovery.png::CompressedTexture2D::855365158721191685::1785586208::1787898374::1::::<><>::
+WarriorWomanIdle2.png::CompressedTexture2D::6926999567601757408::1785585986::1787898374::1::::<><>::
+WarriorWomanIdle.png::CompressedTexture2D::5799435132097989134::1785585972::1787898372::1::::<><>::
+WarriorWomanIdleBlock.png::CompressedTexture2D::3221476454940683504::1785586170::1787898372::1::::<><>::
+WarriorWomanJump.png::CompressedTexture2D::257350715693375554::1785586024::1787898372::1::::<><>::
+WarriorWomanJumpAttack1.png::CompressedTexture2D::6744412675233462219::1785586348::1787898372::1::::<><>::
+WarriorWomanJumpAttack2.png::CompressedTexture2D::2833488079680040411::1785586362::1787898372::1::::<><>::
+WarriorWomanJumpAttack.png::CompressedTexture2D::6416340645699156019::1785586040::1787898372::1::::<><>::
+WarriorWomanLadderClimb.png::CompressedTexture2D::1882409886026047302::1785586276::1787898372::1::::<><>::
+WarriorWomanMPRecovery.png::CompressedTexture2D::5049664563513103077::1785586228::1787898372::1::::<><>::
+WarriorWomanRun.png::CompressedTexture2D::8248233265807513948::1785586012::1787898372::1::::<><>::
+WarriorWomanSlide.png::CompressedTexture2D::5351673499060691371::1785586196::1787898373::1::::<><>::
+WarriorWomanSpell2.png::CompressedTexture2D::5851752236756329267::1785586156::1787898373::1::::<><>::
+WarriorWomanSpell.png::CompressedTexture2D::8213754979145109356::1785586144::1787898373::1::::<><>::
+WarriorWomanWalk.png::CompressedTexture2D::2476458948387181634::1785586000::1787898373::1::::<><>::
+WarriorWomanWallClimb.png::CompressedTexture2D::8098803627858440525::1785586262::1787898373::1::::<><>::
+WarriorWomanWallHang.png::CompressedTexture2D::3131438770228653108::1785586248::1787898373::1::::<><>::
+::res://PixelPlatformerSet1v.1.1/::1787898370
+main_lev_build.png::CompressedTexture2D::6232931118760664660::1787473584::1787898370::1::::<><>::
+other_and_decorative.png::CompressedTexture2D::3815659032244507007::1787473584::1787898368::1::::<><>::
+public-license.txt::TextFile::-1::1787473584::0::1::::<><>::
+::res://PixelPlatformerSet1v.1.1/Anim/::1787898373
+diamond-01.png::CompressedTexture2D::2521630309282811487::1787473584::1787898373::1::::<><>::
+diamond-02.png::CompressedTexture2D::2424020292401097624::1787473584::1787898373::1::::<><>::
+diamond-03.png::CompressedTexture2D::5075145841210946887::1787473584::1787898373::1::::<><>::
+diamond-04.png::CompressedTexture2D::6369718182825513009::1787473584::1787898366::1::::<><>::
+diamond-05.png::CompressedTexture2D::6134462166918471268::1787473584::1787898366::1::::<><>::
+light-01.png::CompressedTexture2D::3786896799295010801::1787473584::1787898367::1::::<><>::
+light-02.png::CompressedTexture2D::6386619730754958642::1787473584::1787898367::1::::<><>::
+light-03.png::CompressedTexture2D::3635334811728604294::1787473584::1787898367::1::::<><>::
+light-04.png::CompressedTexture2D::8490110235951795542::1787473584::1787898367::1::::<><>::
+soul-torch-A-01.png::CompressedTexture2D::2120049504887824150::1787473718::1787898367::1::::<><>::
+soul-torch-A-02.png::CompressedTexture2D::5390368298062623184::1787473764::1787898367::1::::<><>::
+soul-torch-A-03.png::CompressedTexture2D::3660823306739305453::1787473816::1787898367::1::::<><>::
+soul-torch-A-04.png::CompressedTexture2D::595178393967538252::1787473850::1787898367::1::::<><>::
+soul-torch-B-01.png::CompressedTexture2D::1227191133759686941::1787473882::1787898367::1::::<><>::
+soul-torch-B-02.png::CompressedTexture2D::4509864155670033200::1787473914::1787898367::1::::<><>::
+soul-torch-B-03.png::CompressedTexture2D::8058222743753816146::1787473946::1787898367::1::::<><>::
+soul-torch-B-04.png::CompressedTexture2D::1143432705806254668::1787473982::1787898367::1::::<><>::
+soul-torch-C-01.png::CompressedTexture2D::251438162267768527::1787474018::1787898367::1::::<><>::
+soul-torch-C-02.png::CompressedTexture2D::111785550878911333::1787474060::1787898367::1::::<><>::
+soul-torch-C-03.png::CompressedTexture2D::14380967183919992::1787474090::1787898367::1::::<><>::
+soul-torch-C-04.png::CompressedTexture2D::707882341731602988::1787474112::1787898367::1::::<><>::
+torch-A-01.png::CompressedTexture2D::1027597471370373196::1787473584::1787898366::1::::<><>::
+torch-A-02.png::CompressedTexture2D::4130510219839533043::1787473584::1787898366::1::::<><>::
+torch-A-03.png::CompressedTexture2D::1530354276217132981::1787473584::1787898366::1::::<><>::
+torch-A-04.png::CompressedTexture2D::1269552293260037592::1787473584::1787898366::1::::<><>::
+torch-B-01.png::CompressedTexture2D::5943206980613550392::1787473584::1787898366::1::::<><>::
+torch-B-02.png::CompressedTexture2D::5994581659556830737::1787473584::1787898366::1::::<><>::
+torch-B-03.png::CompressedTexture2D::9117629495712720327::1787473584::1787898366::1::::<><>::
+torch-B-04.png::CompressedTexture2D::7027352784867324714::1787473584::1787898366::1::::<><>::
+torch-C-01.png::CompressedTexture2D::5972802741993522310::1787473584::1787898366::1::::<><>::
+torch-C-02.png::CompressedTexture2D::6839084880958264451::1787473584::1787898366::1::::<><>::
+torch-C-03.png::CompressedTexture2D::8184422965673731760::1787473584::1787898366::1::::<><>::
+torch-C-04.png::CompressedTexture2D::2512577137260718887::1787473584::1787898366::1::::<><>::
+::res://PixelPlatformerSet1v.1.1/Background/::1787912789
+01 background.png::CompressedTexture2D::2867210576466694135::1787912763::1787912789::1::::<><>::
+02 background.png::CompressedTexture2D::4466927079041192634::1787473584::1787898366::1::::<><>::
+03 background A.png::CompressedTexture2D::6158591936677742994::1787473584::1787898366::1::::<><>::
+03 background B.png::CompressedTexture2D::3554693464055675663::1787473584::1787898366::1::::<><>::
+04 background.png::CompressedTexture2D::365735854469845021::1787473584::1787898366::1::::<><>::
+05 background.png::CompressedTexture2D::7807824783371045085::1787473584::1787898366::1::::<><>::
+dark background.png::CompressedTexture2D::6877924616280692154::1787912784::1787912789::1::::<><>::
+::res://PixelPlatformerSet1v.1.1/Character/::1787898290
+::res://PixelPlatformerSet1v.1.1/Character/Sprite/::1787898369
+attack-01.png::CompressedTexture2D::8994626789545186806::1787473584::1787898368::1::::<><>::
+attack-02.png::CompressedTexture2D::7698299007895494690::1787473584::1787898368::1::::<><>::
+attack-03.png::CompressedTexture2D::2748505563298342349::1787473584::1787898368::1::::<><>::
+attack-04.png::CompressedTexture2D::9078932393781795332::1787473584::1787898368::1::::<><>::
+attack-05.png::CompressedTexture2D::9073674888510899851::1787473584::1787898368::1::::<><>::
+attack-06.png::CompressedTexture2D::6234214063861944894::1787473584::1787898368::1::::<><>::
+attack-07-continue.png::CompressedTexture2D::3843720877500435056::1787473584::1787898369::1::::<><>::
+attack-08-continue.png::CompressedTexture2D::9133263011370919296::1787473584::1787898369::1::::<><>::
+dead-01.png::CompressedTexture2D::5770834330591147581::1787473584::1787898369::1::::<><>::
+dead-02.png::CompressedTexture2D::272936076254880975::1787473584::1787898369::1::::<><>::
+dead-03.png::CompressedTexture2D::8257788750219878991::1787473584::1787898369::1::::<><>::
+dead-04.png::CompressedTexture2D::4604693902904009639::1787473584::1787898369::1::::<><>::
+idle-01.png::CompressedTexture2D::1553476659178744576::1787473584::1787898369::1::::<><>::
+idle-02.png::CompressedTexture2D::2622572649785474481::1787473584::1787898369::1::::<><>::
+idle-03.png::CompressedTexture2D::5914172104527168507::1787473584::1787898369::1::::<><>::
+idle-04.png::CompressedTexture2D::7947501249285994471::1787473584::1787898369::1::::<><>::
+idle-05.png::CompressedTexture2D::3068979185618597451::1787473584::1787898369::1::::<><>::
+idle-06.png::CompressedTexture2D::8949327432862065230::1787473584::1787898369::1::::<><>::
+jump-01.png::CompressedTexture2D::5902787738847864914::1787473584::1787898367::1::::<><>::
+jump-02.png::CompressedTexture2D::778103625377300620::1787473584::1787898367::1::::<><>::
+jump-landing-01.png::CompressedTexture2D::4334509798725895100::1787473584::1787898367::1::::<><>::
+jump-landing-02.png::CompressedTexture2D::3788936095940475189::1787473584::1787898367::1::::<><>::
+jump-landing-03.png::CompressedTexture2D::5508009584918264216::1787473584::1787898367::1::::<><>::
+run-01.png::CompressedTexture2D::7260560537942861244::1787473584::1787898367::1::::<><>::
+run-02.png::CompressedTexture2D::8154551965599819840::1787473584::1787898367::1::::<><>::
+run-03.png::CompressedTexture2D::8119571576197612615::1787473584::1787898367::1::::<><>::
+run-04.png::CompressedTexture2D::272737640877563704::1787473584::1787898367::1::::<><>::
+run-05.png::CompressedTexture2D::5371992977137292978::1787473584::1787898367::1::::<><>::
+run-06.png::CompressedTexture2D::1111776512216377653::1787473584::1787898367::1::::<><>::
+run-07.png::CompressedTexture2D::2814571922483239241::1787473584::1787898367::1::::<><>::
+::res://Social/::1787898368
+Assets.png::CompressedTexture2D::6843709992562465849::1787888269::1787898368::1::::<><>::
+Test.png::CompressedTexture2D::8568426100148737434::1787888269::1787898368::1::::<><>::
+Test_2.png::CompressedTexture2D::4388688641978032484::1787888269::1787898368::1::::<><>::
